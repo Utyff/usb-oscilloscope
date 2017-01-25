@@ -1,0 +1,262 @@
+# depslib dependency file v1.0
+1398901677 source:d:\projects\oscl-stm32\src\hw_config.c
+	"stm32_it.h"
+	"usb_regs.h"
+	"usb_lib.h"
+	"usb_prop.h"
+	"usb_desc.h"
+	"hw_config.h"
+	"usb_pwr.h"
+
+1358792830 d:\projects\oscl-stm32\inc\stm32_it.h
+	"platform_config.h"
+
+1390341752 d:\projects\oscl-stm32\inc\platform_config.h
+	"stm32l1xx.h"
+	"stm32l152_eval.h"
+	"stm32l152d_eval.h"
+	"stm32f10x.h"
+	"stm3210b_eval.h"
+	"stm3210e_eval.h"
+	"stm32f37x.h"
+	"stm32373c_eval.h"
+	"stm32f30x.h"
+	"stm32303c_eval.h"
+
+1358792870 d:\projects\oscl-stm32\inc\stm32f10x.h
+	"core_cm3.h"
+	"system_stm32f10x.h"
+	<stdint.h>
+	"stm32f10x_conf.h"
+
+1358792870 d:\projects\oscl-stm32\inc\system_stm32f10x.h
+
+1358792829 d:\projects\oscl-stm32\inc\stm32f10x_conf.h
+	"stm32f10x_adc.h"
+	"stm32f10x_bkp.h"
+	"stm32f10x_can.h"
+	"stm32f10x_crc.h"
+	"stm32f10x_dac.h"
+	"stm32f10x_dbgmcu.h"
+	"stm32f10x_dma.h"
+	"stm32f10x_exti.h"
+	"stm32f10x_flash.h"
+	"stm32f10x_fsmc.h"
+	"stm32f10x_gpio.h"
+	"stm32f10x_i2c.h"
+	"stm32f10x_iwdg.h"
+	"stm32f10x_pwr.h"
+	"stm32f10x_rcc.h"
+	"stm32f10x_rtc.h"
+	"stm32f10x_sdio.h"
+	"stm32f10x_spi.h"
+	"stm32f10x_tim.h"
+	"stm32f10x_usart.h"
+	"stm32f10x_wwdg.h"
+	"misc.h"
+
+1358792877 d:\projects\oscl-stm32\lib\std\inc\stm32f10x_adc.h
+	"stm32f10x.h"
+
+1358792877 d:\projects\oscl-stm32\lib\std\inc\stm32f10x_bkp.h
+	"stm32f10x.h"
+
+1358792877 d:\projects\oscl-stm32\lib\std\inc\stm32f10x_can.h
+	"stm32f10x.h"
+
+1358792877 d:\projects\oscl-stm32\lib\std\inc\stm32f10x_crc.h
+	"stm32f10x.h"
+
+1358792877 d:\projects\oscl-stm32\lib\std\inc\stm32f10x_dac.h
+	"stm32f10x.h"
+
+1358792877 d:\projects\oscl-stm32\lib\std\inc\stm32f10x_dbgmcu.h
+	"stm32f10x.h"
+
+1358792877 d:\projects\oscl-stm32\lib\std\inc\stm32f10x_dma.h
+	"stm32f10x.h"
+
+1358792877 d:\projects\oscl-stm32\lib\std\inc\stm32f10x_exti.h
+	"stm32f10x.h"
+
+1358792877 d:\projects\oscl-stm32\lib\std\inc\stm32f10x_flash.h
+	"stm32f10x.h"
+
+1358792877 d:\projects\oscl-stm32\lib\std\inc\stm32f10x_fsmc.h
+	"stm32f10x.h"
+
+1358792877 d:\projects\oscl-stm32\lib\std\inc\stm32f10x_gpio.h
+	"stm32f10x.h"
+
+1358792877 d:\projects\oscl-stm32\lib\std\inc\stm32f10x_i2c.h
+	"stm32f10x.h"
+
+1358792877 d:\projects\oscl-stm32\lib\std\inc\stm32f10x_iwdg.h
+	"stm32f10x.h"
+
+1358792877 d:\projects\oscl-stm32\lib\std\inc\stm32f10x_pwr.h
+	"stm32f10x.h"
+
+1358792877 d:\projects\oscl-stm32\lib\std\inc\stm32f10x_rcc.h
+	"stm32f10x.h"
+
+1358792877 d:\projects\oscl-stm32\lib\std\inc\stm32f10x_rtc.h
+	"stm32f10x.h"
+
+1358792877 d:\projects\oscl-stm32\lib\std\inc\stm32f10x_sdio.h
+	"stm32f10x.h"
+
+1358792877 d:\projects\oscl-stm32\lib\std\inc\stm32f10x_spi.h
+	"stm32f10x.h"
+
+1358792877 d:\projects\oscl-stm32\lib\std\inc\stm32f10x_tim.h
+	"stm32f10x.h"
+
+1358792877 d:\projects\oscl-stm32\lib\std\inc\stm32f10x_usart.h
+	"stm32f10x.h"
+
+1358792877 d:\projects\oscl-stm32\lib\std\inc\stm32f10x_wwdg.h
+	"stm32f10x.h"
+
+1358792877 d:\projects\oscl-stm32\lib\std\inc\misc.h
+	"stm32f10x.h"
+
+1390330282 d:\projects\oscl-stm32\inc\stm3210e_eval.h
+	"stm32f10x.h"
+
+1358792851 d:\projects\oscl-stm32\lib\usb\inc\usb_lib.h
+	"hw_config.h"
+	"usb_type.h"
+	"usb_regs.h"
+	"usb_def.h"
+	"usb_core.h"
+	"usb_init.h"
+	"usb_sil.h"
+	"usb_mem.h"
+	"usb_int.h"
+
+1392069159 d:\projects\oscl-stm32\inc\hw_config.h
+	"platform_config.h"
+	"usb_type.h"
+
+1358792851 d:\projects\oscl-stm32\lib\usb\inc\usb_type.h
+	"usb_conf.h"
+
+1390522144 d:\projects\oscl-stm32\inc\usb_conf.h
+
+1358792851 d:\projects\oscl-stm32\lib\usb\inc\usb_regs.h
+
+1358792851 d:\projects\oscl-stm32\lib\usb\inc\usb_def.h
+
+1358792851 d:\projects\oscl-stm32\lib\usb\inc\usb_core.h
+
+1358792851 d:\projects\oscl-stm32\lib\usb\inc\usb_init.h
+
+1358792851 d:\projects\oscl-stm32\lib\usb\inc\usb_sil.h
+
+1358792851 d:\projects\oscl-stm32\lib\usb\inc\usb_mem.h
+
+1358792851 d:\projects\oscl-stm32\lib\usb\inc\usb_int.h
+
+1358792829 d:\projects\oscl-stm32\inc\usb_prop.h
+
+1358792830 d:\projects\oscl-stm32\inc\usb_desc.h
+
+1358792830 d:\projects\oscl-stm32\inc\usb_pwr.h
+
+1390318095 source:d:\projects\oscl-stm32\src\startup_stm32f10x_md.s
+
+1358792829 source:d:\projects\oscl-stm32\src\stm32_it.c
+	"hw_config.h"
+	"stm32_it.h"
+	"usb_lib.h"
+	"usb_istr.h"
+
+1358792829 d:\projects\oscl-stm32\inc\usb_istr.h
+	"usb_conf.h"
+
+1358792829 source:d:\projects\oscl-stm32\src\system_stm32f10x.c
+	"stm32f10x.h"
+
+1358792829 source:d:\projects\oscl-stm32\src\usb_desc.c
+	"usb_lib.h"
+	"usb_desc.h"
+
+1391980519 source:d:\projects\oscl-stm32\src\usb_endp.c
+	"usb_lib.h"
+	"usb_desc.h"
+	"usb_mem.h"
+	"hw_config.h"
+	"usb_istr.h"
+	"usb_pwr.h"
+
+1358792829 source:d:\projects\oscl-stm32\src\usb_istr.c
+	"usb_lib.h"
+	"usb_prop.h"
+	"usb_pwr.h"
+	"usb_istr.h"
+
+1390582918 source:d:\projects\oscl-stm32\src\usb_prop.c
+	"usb_lib.h"
+	"usb_conf.h"
+	"usb_prop.h"
+	"usb_desc.h"
+	"usb_pwr.h"
+	"hw_config.h"
+
+1358792829 source:d:\projects\oscl-stm32\src\usb_pwr.c
+	"usb_lib.h"
+	"usb_conf.h"
+	"usb_pwr.h"
+	"hw_config.h"
+
+1358792876 source:d:\projects\oscl-stm32\lib\std\src\misc.c
+	"misc.h"
+
+1358792874 source:d:\projects\oscl-stm32\lib\std\src\stm32f10x_exti.c
+	"stm32f10x_exti.h"
+
+1358792876 source:d:\projects\oscl-stm32\lib\std\src\stm32f10x_gpio.c
+	"stm32f10x_gpio.h"
+	"stm32f10x_rcc.h"
+
+1358792874 source:d:\projects\oscl-stm32\lib\std\src\stm32f10x_rcc.c
+	"stm32f10x_rcc.h"
+
+1358792851 source:d:\projects\oscl-stm32\lib\usb\src\usb_core.c
+	"usb_lib.h"
+
+1358792851 source:d:\projects\oscl-stm32\lib\usb\src\usb_init.c
+	"usb_lib.h"
+
+1358792851 source:d:\projects\oscl-stm32\lib\usb\src\usb_int.c
+	"usb_lib.h"
+
+1358792851 source:d:\projects\oscl-stm32\lib\usb\src\usb_mem.c
+	"usb_lib.h"
+
+1358792851 source:d:\projects\oscl-stm32\lib\usb\src\usb_regs.c
+	"usb_lib.h"
+
+1358792850 source:d:\projects\oscl-stm32\lib\usb\src\usb_sil.c
+	"usb_lib.h"
+
+1398452022 source:d:\projects\oscl-stm32\src\main.c
+	"hw_config.h"
+	"usb_lib.h"
+	"usb_desc.h"
+	"usb_pwr.h"
+	"string.h"
+
+1358792874 source:d:\projects\oscl-stm32\lib\std\src\stm32f10x_adc.c
+	"stm32f10x_adc.h"
+	"stm32f10x_rcc.h"
+
+1358792876 source:d:\projects\oscl-stm32\lib\std\src\stm32f10x_dma.c
+	"stm32f10x_dma.h"
+	"stm32f10x_rcc.h"
+
+1358792874 source:d:\projects\oscl-stm32\lib\std\src\stm32f10x_tim.c
+	"stm32f10x_tim.h"
+	"stm32f10x_rcc.h"
+
